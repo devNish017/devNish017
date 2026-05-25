@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nice meeting you, I'm Nishant!<br><br>🔭 I’m currently an MCA student (2024–26) and building web projects<br>💬 Ask me about JavaScript, React, HTML, CSS & basic DSA<br>🚀 Projects: Swiggy Clone, IMDb Clone, Fake Review Detection System<br>🌱 Currently improving React & problem-solving skills<br>📫 How to reach me: LinkedIn | GitHub<br>😄 Pronouns: He/Him<br>⚡ Fun fact: If I’m not coding, I’m probably thinking about improving my next project 😄
+Nice meeting you, I'm Nishant!<br><br>🔭 I’m currently an MCA student (2024–26) and building web projects<br>💬 Ask me about JavaScript, React, HTML, CSS & DSA <br>🌱 Currently improving React & problem-solving skills<br>📫 How to reach me: LinkedIn | GitHub<br>😄 Pronouns: He/Him<br>⚡ Fun fact: If I’m not coding, I’m probably thinking about improving my next project 😄
 
 
 ## 🌐 Socials:
