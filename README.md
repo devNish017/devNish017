@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nice to meet you, I'm Nishant!<br><br>
+Nice to meet you, I'm Nishant!<br>
 
 👨‍💻 I’m an MCA graduate and aspiring Software Developer, building web applications and real-world projects<br>
 💬 Ask me about JavaScript, React, Node.js, HTML, CSS & DSA<br>
