@@ -1,5 +1,14 @@
 # 💫 About Me:
-Nice meeting you, I'm Nishant!<br><br>🔭 I’m currently an MCA student (2024–26) and building web projects<br>💬 Ask me about JavaScript, React, HTML, CSS & DSA <br>🌱 Currently improving React & problem-solving skills<br>📫 How to reach me: LinkedIn | GitHub<br>😄 Pronouns: He/Him<br>⚡ Fun fact: If I’m not coding, I’m probably thinking about improving my next project 😄
+Nice to meet you, I'm Nishant!<br><br>
+
+👨‍💻 I’m an MCA graduate and aspiring Software Developer, building web applications and real-world projects<br>
+💬 Ask me about JavaScript, React, Node.js, HTML, CSS & DSA<br>
+🌱 Currently improving my full-stack development, backend & problem-solving skills<br>
+🔭 Exploring new technologies and building projects to strengthen my development skills<br>
+📫 How to reach me: LinkedIn | GitHub<br>
+😄 Pronouns: He/Him<br>
+⚡ Fun fact: If I’m not coding, I’m probably thinking about how to improve my next project 😄
+
 
 
 ## 🌐 Socials:
